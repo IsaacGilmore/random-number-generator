@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;700&display=swap');
+
+body {
+    font-family: 'Roboto Mono', monospace;
+}
+
+.container-fluid {
+    background-color: #ededff;
+    height: 100vh
+}
+
+#main-title {
+    font-weight: 700;
+    font-size: calc(20pt + 1vw);
+}
